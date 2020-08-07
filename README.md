@@ -4,7 +4,7 @@ After the compilation is completed, the application can be started by running be
 
 java -jar stores-0.0.1-SNAPSHOT.jar
 
-The REST endpoints can be access using browser or tools like curl, for example: http://localhost:8080/stores
+The REST endpoints can be access using browsers with REST plug-ins or tools like curl, for example: http://localhost:8080/stores
 
 The application can also be imported into IDE and run within IDE directly.
 
